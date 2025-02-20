@@ -1,0 +1,6 @@
+artifact_location: file:///home/megha/my_mlflow_project/Project/mlruns/929989691142411108
+creation_time: 1739962546804
+experiment_id: '929989691142411108'
+last_update_time: 1739962546804
+lifecycle_stage: active
+name: cat-dog-classifier-mobilenet

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/megha/my_mlflow_project/Project/mlruns/929989691142411108/9f2cc221265f4511aa269464bb210706/artifacts
+end_time: 1740036504666
+entry_point_name: ''
+experiment_id: '929989691142411108'
+lifecycle_stage: active
+run_id: 9f2cc221265f4511aa269464bb210706
+run_name: '20250220_062722'
+run_uuid: 9f2cc221265f4511aa269464bb210706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740036498908
+status: 3
+tags: []
+user_id: megha
