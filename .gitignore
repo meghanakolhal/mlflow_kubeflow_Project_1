@@ -14,9 +14,14 @@ __pycache__/
 # Ignore DVC cache directory
 .dvc/
 
-# Ignore dataset and model files
-data/
-model/
+# Allow tracking of specific dataset files with DVC
+!data/cat_dogs.dvc
+!data/.gitignore  # Ensure DVC can manage the folder
+
+# Ignore other dataset and model files
+#data/*
+#!3data/cat_dogs/  # Allow tracking this dataset
+#model/
 
 # Ignore log files
 logs/
