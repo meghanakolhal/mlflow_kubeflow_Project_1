@@ -32,3 +32,5 @@ logs/
 *.h5
 *.onnx
 
+.env
+.dvc/config
