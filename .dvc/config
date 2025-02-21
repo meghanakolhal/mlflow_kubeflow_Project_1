@@ -1,6 +1,0 @@
-[core]
-    remote = myremote
-['remote "myremote"']
-    url = s3://projectmlbucket
-    access_key_id = AKIA5IJOXHR33NUN4O7Y
-    secret_access_key = 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
