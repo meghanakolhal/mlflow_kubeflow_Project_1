@@ -33,7 +33,7 @@ jobs:
           python train.py
 
       - name: Save Model Artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: trained-model
           path: model/
